@@ -1,11 +1,16 @@
 _repo: Treatise-on-Poisons-In-relation-to-medical-jurisprudence-physiology-and-the-practice-of-physi__65341
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65341-h/images/cover.jpg
 creator:
   author:
     agent_name: Christison, Robert
     gutenberg_agent_id: '53296'
     url: http://www.gutenberg.org/2009/agents/53296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65341#Treatise-on-Poisons-In-relation-to-medical-jurisprudence-physiology-and-the-practice-of-physi_
 gutenberg_issued: '2021-05-14'
 gutenberg_type: Text
 identifiers:
